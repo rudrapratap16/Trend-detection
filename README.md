@@ -21,7 +21,7 @@ To run this notebook, ensure you have the following installed:
 1. Clone the repository or download the notebook file:
    ```bash
    git clone https://github.com/rudrapratap16/Trend-detection
-   cd Trend-detection
+   cd ./Trend-detection
    ```
 2. Install the dependencies:
    ```bash
